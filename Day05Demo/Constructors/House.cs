@@ -40,8 +40,9 @@ public class House
         corridorColor = ConsoleColor.Yellow;
     }
     */
-    internal void Build()
-    {
 
+    public void Build()
+    {
+        Console.WriteLine($"Building all floors");
     }
 }
