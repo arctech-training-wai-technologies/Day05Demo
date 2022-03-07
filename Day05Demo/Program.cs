@@ -8,4 +8,6 @@ using Day05Demo.Polymorphism;
 
 //StaticPolymorphismDemo.Test();
 
-DynamicPolymorphismDemo.Test();
+//DynamicPolymorphismDemo.Test();
+
+DynamicPolymorphismDemo2.Test();
